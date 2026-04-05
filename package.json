@@ -1,0 +1,20 @@
+{
+  "name": "backend-development",
+  "version": "1.0.0",
+  "description": "Backend Tutorial Practice",
+  "homepage": "https://github.com/Progress21-tech/Backend-Development#readme",
+  "bugs": {
+    "url": "https://github.com/Progress21-tech/Backend-Development/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Progress21-tech/Backend-Development.git"
+  },
+  "license": "ISC",
+  "author": "Progress Oni",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
